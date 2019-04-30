@@ -1,0 +1,18 @@
+{"data": [
+  {"test": "I've got some spare cycles, if you wish to assign me some new work?"},
+  {"test": "Looks like my bandwidth is opening up, if you care to assign me anything new?"},
+  {"test": "I'm free to take on some new tasks... would it be any trouble for you to throw some new tasks my way?"},
+  {"test": "Ready for more work gentlemen!"},
+  {"test": "Gentlemen.  I am waiting for new tickets.   Feel free to throw a few in my direction"},
+  {"test": "I am eager to take on some new assignments, if you guys wouldn't mind divvying up some new work for me?"},
+  {"test": "Looks like I'm all set to tackle some new bugs guys.. got anything new for me?"},
+  {"test": "I just finished up my latest assignment.  Got anything new?"},
+  {"test": "Attention sirs, all done...  Feel free to assign away!"},
+  {"test": "Not seeing too many new bugs assigned to me today.. Got anything new?"},
+  {"test": "Work complete.  What's next?"},
+  {"test": "Fellow comrades: I have completed the latest batch of bugs.  What can I work on next?"},
+  {"test": "Dear professional work assigners....  can you please assign me my next task?"},
+  {"test": "All done boys.  What can I tackle next?"},
+  {"test": "Seems we have a deficit in my work queue this morning.  Any chance we can change that?"},
+  {"test": "isDepleted(my bug queue).almost(true) === true;  readyForNewWork = true"}
+]}

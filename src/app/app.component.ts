@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import {data} from './data.json';
 
 @Component({
   selector: 'app-root',
@@ -6,5 +7,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'professionalworkrequestgenerator';
+  private readonly data = data as Array<{test: string}>;
+  readonly text = this.data[Math.floor(Math.random() * (this.data.length - 1))].test;
 }
